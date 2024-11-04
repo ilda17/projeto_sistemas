@@ -6,9 +6,9 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 * [Exemplo de Documento de Requisitos - JARVIS.pdf](https://github.com/user-attachments/files/17388495/Exemplo.de.Documento.de.Requisitos.-.JARVIS.pdf)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
+1) ilda
+2) eloah
+3) virginia
 4) 
 5) 
 
@@ -20,7 +20,7 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 
 |Versão|Responsáveis|Data|Alterações|
 |------|------------|----|----------|
-|  1.0 |            |    |          |
+|  1.0 |  ilda,virginia,eloah|04/11/24    |          |
 |      |            |    |          |
 |      |            |    |          |
 
