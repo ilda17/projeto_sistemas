@@ -7,10 +7,13 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 
 # Integrantes do Grupo
 1) ilda
-2) 
-3) 
+2) eloah
+3) virginia
 4) 
 5) 
+6) 
+7) 
+8) 
 
 # Documento de Requisitos
 
@@ -20,21 +23,21 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 
 |Versão|Responsáveis|Data|Alterações|
 |------|------------|----|----------|
-|  1.0 |  ilda,|04/11/24    |          |
+|  1.0 |  ilda,eloah, virginia|04/11/24    |          |
 |      |            |    |          |
 |      |            |    |          |
 
 # 1 Introdução (ATÉ DIA 05/11/2024)
 
-* Escreva aqui uma breve introdução ao documento, descrevendo seu propósito e estrutura.
+* o propósito do projeto é mostrar que há várias maneiras de você encontrar seus doramas e favoritar eles, assim também como dá opinião, argumentar sobre os doramas e indicar eles sobre oque se trata o dorama, falar sobre os próximos lançamentos, . 
 
 # 2 Descrição do Propósito do Sistema (ATÉ DIA 05/11/2024)
 
-* Descreva aqui o propósito geral do sistema.
+o propósito do sistema é auxiliar as dorameiras a encontrar seus doramas favoritos, ler sobre as opinioẽs, saber quem são os atores, saber se haverá outras temporadas, saber se é um dorama bastante procurado, se é um dorama bom, se tem criticas positivas, a intenção do sistema é mostrar as qualidades dos doramas.
  
 # 3 Descrição do Minimundo (ATÉ DIA 05/11/2024)
 
-* Apresente, em texto corrido, uma visão geral do domínio, do problema a ser resolvido e dos processos de negócio apoiados, bem como as principais ideias do cliente sobre o sistema a ser desenvolvido.
+bom, a procura dos nossos clientes é bem grande por conta, da grande procura por sistemas que possuem os doramas mais procurados e acessados, a intenção é ser um sistema de baixo custo e que possa ser acessivel para todos os nosso clientes, e que eles se sintam bem acessando o nosso sistema e conseguindo assistir todos os seus doramas no conforto da sua casa e com uma otima qualidade, não só podendo assistir de onde estiver como não precisando utilizar todos os seus dados de internet, tambem podendo salvar sem precisar de internet, outra ponto positivo do nosso sistema é que você pode conseguir encontrar as roupas que mais te agradam para comprar e usar, a nossa intenção é não só disponibilizar os doramas como támbem te ajudar a escolher as roupas que te agradam.
 
 # 4 Requisitos de Usuário (ATÉ DIA 26/11/2024)
 
